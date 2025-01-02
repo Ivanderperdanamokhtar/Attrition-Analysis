@@ -2,11 +2,11 @@
 
 ## **Latar Belakang**
 
-PT Kreativa Solusi adalah perusahaan teknologi yang bergerak di bidang pengembangan perangkat lunak berbasis SaaS (Software as a Service). Dalam dua tahun terakhir, perusahaan mengalami tingkat attrition karyawan yang cukup tinggi, terutama di divisi pengembangan produk dan layanan pelanggan. Rata-rata tingkat attrition tahunan mencapai 18%, melebihi rata-rata industri sebesar 12%.
+PT Nayara Digital adalah perusahaan teknologi yang bergerak di bidang pengembangan perangkat lunak berbasis SaaS (Software as a Service). Dalam dua tahun terakhir, perusahaan mengalami tingkat attrition karyawan yang cukup tinggi, terutama di divisi pengembangan produk dan layanan pelanggan. Rata-rata tingkat attrition tahunan mencapai 18%, melebihi rata-rata industri sebesar 12%.
 
 Masalah ini memengaruhi produktivitas tim, meningkatkan biaya perekrutan, dan memperpanjang waktu penyelesaian proyek. Manajemen khawatir jika masalah ini tidak diatasi, perusahaan akan kehilangan daya saing dalam menghadirkan produk berkualitas tinggi ke pasar.
 
-Manajemen PT Kreativa Solusi menghadapi beberapa tantangan utama:
+Manajemen PT Nayara Digital menghadapi beberapa tantangan utama:
 1. **Peningkatan Biaya Operasional**: Tingginya tingkat turnover mengharuskan perusahaan terus-menerus merekrut dan melatih karyawan baru, yang memakan waktu dan biaya.
 2. **Penurunan Produktivitas**: Kehilangan karyawan kunci memperlambat siklus pengembangan produk.
 3. **Kepuasan Pelanggan Menurun**: Divisi layanan pelanggan sering kekurangan staf, menyebabkan keluhan pelanggan meningkat.
@@ -20,7 +20,7 @@ Manajemen PT Kreativa Solusi menghadapi beberapa tantangan utama:
 
 ## **Kesimpulan**
 
-Studi kasus ini menunjukkan bagaimana Attrition Analysis membantu perusahaan memahami masalah attrition karyawan secara mendalam dan merancang strategi berbasis data untuk meningkatkan retensi. Dengan menerapkan langkah-langkah yang direkomendasikan, PT Kreativa Solusi dapat mencapai target bisnisnya dan membangun lingkungan kerja yang lebih positif.
+Studi kasus ini menunjukkan bagaimana Attrition Analysis membantu perusahaan memahami masalah attrition karyawan secara mendalam dan merancang strategi berbasis data untuk meningkatkan retensi. Dengan menerapkan langkah-langkah yang direkomendasikan, PT Nayara Digital dapat mencapai target bisnisnya dan membangun lingkungan kerja yang lebih positif.
 
 ## **Step 01: Business Problem**
 1. Tingkat attrition karyawan yang tinggi mencapai 18%, melebihi rata-rata industri sebesar 12%. Masalah ini menyebabkan beberapa dampak negatif bagi perusahaan:
@@ -73,5 +73,5 @@ Total biaya yang dihasilkan adalah:
 
 ## **Kesimpulan Akhir**
 
-Dengan analisis berbasis data, PT Kreativa Solusi dapat mengidentifikasi penyebab utama attrition dan merancang strategi untuk mengurangi tingkat attrition, meningkatkan retensi, dan mengurangi dampak finansial yang disebabkan oleh turnover karyawan.
+Dengan analisis berbasis data, PT Nayara Digital dapat mengidentifikasi penyebab utama attrition dan merancang strategi untuk mengurangi tingkat attrition, meningkatkan retensi, dan mengurangi dampak finansial yang disebabkan oleh turnover karyawan.
 
